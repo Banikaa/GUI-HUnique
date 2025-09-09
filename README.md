@@ -37,5 +37,4 @@ On each tab, the user cam:
   
   
   
-
-
+Note: due to GDPR constraints, the models weights and the images captured during the demo sessions cannot be shown.
