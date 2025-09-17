@@ -1,5 +1,6 @@
 # GUI-HUnique DEMO GUI application
 <h3>*Multi-threaded GUI application for live demo-img multiple Computer Vision models for the HUnique project*</h3>
+<h4>Application with elements from: DCNN architectural finetuning, MLops and system architecture components, and software engineering.</h4>
 
 <img width="2108" height="947" alt="HUIDEMO_plane1" src="https://github.com/user-attachments/assets/9fb6904f-1393-41a2-807a-eb167feda527" />
 
